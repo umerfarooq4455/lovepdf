@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* quick test helper */
+:root { --brand:#dc3d33; }
+header { z-index: 60; }
